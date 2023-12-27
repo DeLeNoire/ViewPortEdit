@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#myCanvas {
+    background-color: #f3c156;
+    border-radius: 1em;
+}
